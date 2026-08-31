@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/stock_shaders">
+        <file alias="gradient.glsl">shaders/gradient.glsl</file>
+        <file alias="plasma.glsl">shaders/plasma.glsl</file>
+        <file alias="ripple.glsl">shaders/ripple.glsl</file>
+        <file alias="checkerboard.glsl">shaders/checkerboard.glsl</file>
+    </qresource>
+</RCC>

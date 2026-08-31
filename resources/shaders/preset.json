@@ -1,0 +1,6 @@
+{
+    "shader": "/home/tando/projects/Shader_viewer/resources/shaders/checkerboard.glsl",
+    "values": {
+        "scale": 6
+    }
+}
